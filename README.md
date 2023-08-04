@@ -3,7 +3,7 @@ Sensitive word detection - 敏感词检测
 附有词库大约5W
 
 # requirements
-flask
+flask  
 jieba
 
 # usage
