@@ -24,3 +24,7 @@ python3 test.py
   "time" : 0.00537023871
 }
 ~~~
+
+# 自定义词库
+blacklist.txt（黑名单）：添加违禁词汇  
+whitelist.txt（白名单）：添加解禁词汇
