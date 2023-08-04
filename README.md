@@ -1,14 +1,12 @@
-# sensitive-word-detection
-
-Sensitive word detection - 敏感词检测
+# Sensitive word detection - 敏感词检测
 
 附有词库大约5W
 
-requirements：
+# requirements
 flask
 jieba
 
-usage
+# usage
 ./build.sh
 ./run.sh
 python3 test.py
@@ -17,7 +15,7 @@ python3 test.py
 
 传参: http://127.0.0.1:5002/api/check?input=content
 
-返回示例: 
+# 返回示例 
 ~~~json
 {
   "divide" : "哈哈",
